@@ -1,3 +1,3 @@
-number=9
-answer=number/3
+number=10
+answer=number%3
 print(answer)
